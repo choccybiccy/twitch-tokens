@@ -1,0 +1,4 @@
+suites:
+  twitch_token:
+    namespace: Twitch\Auth\Token
+    psr4_prefix: Twitch\Auth\Token
