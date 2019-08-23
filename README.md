@@ -3,7 +3,7 @@ A library to verify Twitch JWT tokens.
 
 ## Requirements
 
-- PHP 7.1+
+- PHP 7.2+
 - ext-json
 
 ## Installation
